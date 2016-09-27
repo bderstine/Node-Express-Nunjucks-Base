@@ -1,0 +1,23 @@
+{
+  "name": "node-express-nunjucks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bderstine/Node-Express-Nunjucks-Base.git"
+  },
+  "author": "Brad Derstine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bderstine/Node-Express-Nunjucks-Base/issues"
+  },
+  "homepage": "https://github.com/bderstine/Node-Express-Nunjucks-Base#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nunjucks": "^2.5.2"
+  }
+}
